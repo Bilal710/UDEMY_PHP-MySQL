@@ -12,7 +12,6 @@
     
     </head>
     <body>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem facilis impedit atque eum, beatae totam iure veritatis consequuntur? Asperiores qui quos obcaecati consequuntur, facere magnam rem at neque labore quisquam.</p>
         <p>WELCOME <?php echo $_SESSION["username"]; ?> <br> You are now Connected <br> Let 's  GO</p>
         
         
